@@ -73,6 +73,10 @@ body {
   background-image: linear-gradient(to left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
 }
 
+.carousel-caption{
+  color: black;
+}
+
 
 
 
